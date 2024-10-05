@@ -59,4 +59,8 @@ These are some basic codes used while working on SQL
 - WINDOW FUNCTIONS: ROW_NUMBER,RANK, DENSE RANK
 - UNIONS
 - JOINS
-  
+
+### DATA VISUALIZATION
+---
+
+
