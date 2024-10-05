@@ -67,3 +67,9 @@ These are some basic codes used while working on SQL
 
 
 
+![JuliusImage](https://github.com/user-attachments/assets/da5a97b6-a017-4628-bf03-d3daa4aca40a)
+
+
+
+
+
