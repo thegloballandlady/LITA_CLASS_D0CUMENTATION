@@ -14,7 +14,8 @@ I know all things are possible to them that believe as well as work smart.
 
 
 ### TOOLS IN DATA ANALYSIS
-- Microsoft Excel [Download Here](https://www.microsoftexcel.com)
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  
   1. For Data Cleaning
   2. For Analysis
   3. For Data Visualization
@@ -24,3 +25,11 @@ I know all things are possible to them that believe as well as work smart.
 
   
 - Github for Portfolio Building
+
+
+### Data Cleaning and Preparations
+Here, we take the following actions: 
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
