@@ -1,3 +1,4 @@
+
 # LITA_CLASS_D0CUMENTATION
 This is my first git on data analysis
 
@@ -62,6 +63,7 @@ These are some basic codes used while working on SQL
 ```
 ### DATA VISUALIZATION
 ---
+![Screenshot_22-4-2024_12363_docs google com](https://github.com/user-attachments/assets/6db870e1-8df4-48fd-8c5a-238a1102e924)
 
 
 
