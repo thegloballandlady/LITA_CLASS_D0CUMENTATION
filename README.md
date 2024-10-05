@@ -4,19 +4,19 @@ This is my first git on data analysis
 
 ### PROJECT TITLE
 
-[BECOMING A DATA ANALYST: MY IMPRESSIVE STORY](#becoming-a-data-analyst-:-my-impressive-story)
+[BECOMING A DATA ANALYST: MY IMPRESSIVE STORY](#becoming-a-data-analyst-my-impressive-story)
 
-[HOW DO I WANT TO ACHIEVE THIS 
+[HOW DO I WANT TO ACHIEVE THIS](#how-do-i-want-to-achieve-this) 
 
-TOOLS IN DATA ANALYSIS
+[TOOLS IN DATA ANALYSIS](#tools-in-data-analysis)
 
-DATA CLEANING AND PREPARATION
+[DATA CLEANING AND PREPARATION](#data-cleaning-and-preparation)
 
-EXPLORATORY DATA ANALYSIS
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
 
  [DATA ANALYSIS](#data-analysis)
 
- DATA VISUALIZATION
+ [DATA VISUALIZATION](#data-visualization)
 
 
 ### BECOMING A DATA ANALYST: MY IMPRESSIVE STORY
