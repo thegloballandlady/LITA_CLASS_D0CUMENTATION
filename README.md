@@ -33,3 +33,21 @@ Here, we take the following actions:
 2. Handling missing variables
 3. Data cleaning and formatting
 
+
+### EXPLORATORY DATA ANALYSIS
+A statistical approach to understanding and summarizing dataset . This different methods helps:
+1. To identify patterns and relaetionships
+2. Understand data distribution and variability
+3. Develop hypotheses for further investigation
+
+
+### DATA ANALYSIS
+These are some basic codes used while working on SQL
+- SELECT*
+  FROM employee_demographics (you use any table based on its name )
+- CONCAT
+- TRIM
+- SUBQUERIES
+- CASE STATEMENT
+- WINDOW FUNCTIONS: ROW_NUMBER,RANK, DENSE RANK
+- 
