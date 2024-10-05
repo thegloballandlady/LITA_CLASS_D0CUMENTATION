@@ -43,11 +43,13 @@ A statistical approach to understanding and summarizing dataset . This different
 
 ### DATA ANALYSIS
 These are some basic codes used while working on SQL
+``` SQL
 - SELECT*
   FROM employee_demographics (you use any table based on its name )
-- CONCAT
-- TRIM
+- STRING FUNCTIONS
 - SUBQUERIES
 - CASE STATEMENT
 - WINDOW FUNCTIONS: ROW_NUMBER,RANK, DENSE RANK
-- 
+- UNIONS
+- JOINS
+  
