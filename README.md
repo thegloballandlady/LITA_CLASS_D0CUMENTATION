@@ -2,10 +2,27 @@
 # LITA_CLASS_D0CUMENTATION
 This is my first git on data analysis
 
+### PROJECT TITLE
+
+[BECOMING A DATA ANALYST: MY IMPRESSIVE STORY](#becoming-a-data-analyst-:-my-impressive-story)
+
+[HOW DO I WANT TO ACHIEVE THIS 
+
+TOOLS IN DATA ANALYSIS
+
+DATA CLEANING AND PREPARATION
+
+EXPLORATORY DATA ANALYSIS
+
+ [DATA ANALYSIS](#data-analysis)
+
+ DATA VISUALIZATION
+
+
 ### BECOMING A DATA ANALYST: MY IMPRESSIVE STORY
 ---
 Joining LITA is truly a miracle since i decided to transition into the tech field, I had always been sceptical about certain things and understanding code was one of them. 
-When life gives you oranges, make as many orange smoothies and pies you want from it and even sell some to make extra cash, funny as it may appear, i believe we are one way or the other making smoothies from all that life throws at us and we are becoming better and brighter with each passing day.
+When life gives you oranges, make as many orange smoothies and pies you want from it and even sell some to make extra cash 😄, funny as it may appear, i believe we are one way or the other making smoothies from all that life throws at us and we are becoming better and brighter with each passing day.
 Being a big believer of the Word of God which says that the path of just shines brighter and brighter until the perfect day.
 
 
@@ -31,7 +48,7 @@ I know all things are possible to them that believe as well as work smart.
 - Github for Portfolio Building
 
 
-### Data Cleaning and Preparations
+### DATA CLEANING AND PREPARATION
 ---
 Here, we take the following actions: 
 1. Data loading and Inspection
@@ -71,5 +88,11 @@ These are some basic codes used while working on SQL
 
 
 
+🥇
 
 
+
+|Heading 1 | Heading 2 |Heading 3|
+|----------|-----------|---------|
+|Table 1 | Table 2 | Table 3|
+|--------|---------|--------|
