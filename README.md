@@ -80,8 +80,11 @@ These are some basic codes used while working on SQL
 ```
 ### DATA VISUALIZATION
 ---
-![Screenshot_22-4-2024_12363_docs google com](https://github.com/user-attachments/assets/6db870e1-8df4-48fd-8c5a-238a1102e924)
 
+![LITA logo M011](https://github.com/user-attachments/assets/5d83da0f-2083-4ff4-be62-0d6bb321b716)
+
+
+![Screenshot_22-4-2024_12363_docs google com](https://github.com/user-attachments/assets/6db870e1-8df4-48fd-8c5a-238a1102e924)
 
 
 ![JuliusImage](https://github.com/user-attachments/assets/da5a97b6-a017-4628-bf03-d3daa4aca40a)
